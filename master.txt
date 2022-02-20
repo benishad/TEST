@@ -1,1 +1,2 @@
 master AAA
+And new line
